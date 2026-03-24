@@ -12,8 +12,7 @@ This is a **Full Stack Job Portal** website built using **MERN Stack (MongoDB, E
 - [Installation & Setup](#installation--setup)  
 - [Usage](#usage)  
 - [API Endpoints](#api-endpoints)  
-- [Frontend Pages](#frontend-pages)  
-- [Screenshots](#screenshots)  
+- [Frontend Pages](#frontend-pages)   
 - [License](#license)  
 
 ---
